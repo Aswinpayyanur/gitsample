@@ -1,0 +1,48 @@
+[33mcommit 163c6d0a4e19424ba0f2d5d8963d8ee4ec36eb3a[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Fri May 19 11:18:15 2023 +0530
+
+    hello file modified
+
+[33mcommit da9641a576fd297f807bb4e33b004d918c59ffb0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Fri May 19 11:12:38 2023 +0530
+
+    hey file modified
+
+[33mcommit 12e6632aa838d66bc1adfcdf4b26690d734d2d46[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: f0e2bc4 bed0852
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Fri May 19 11:08:05 2023 +0530
+
+    WIP on master: f0e2bc4 hey file edited
+
+[33mcommit bed0852267845bc332a31433075467f857ebf8d6[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Fri May 19 11:08:05 2023 +0530
+
+    index on master: f0e2bc4 hey file edited
+
+[33mcommit f0e2bc431fe72b197131bb9e0af278b4362e229b[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Fri May 19 10:33:34 2023 +0530
+
+    hey file edited
+
+[33mcommit 3b11401fe9e952052a98dae625cda2680186bbc5[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Fri May 19 10:21:11 2023 +0530
+
+    Second file added
+
+[33mcommit 5333bf56a995a899099cd22e12a06336dd9d3dce[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Thu May 18 14:22:16 2023 +0530
+
+    Added some message
+
+[33mcommit 111ed7ef4f0071ac05f5d5e7646df8c6bd55f59f[m
+Author: Aswin <aswinpayyanur364@gmail.com>
+Date:   Thu May 18 14:18:27 2023 +0530
+
+    Initial Commit
